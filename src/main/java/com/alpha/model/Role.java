@@ -1,6 +1,6 @@
 package com.alpha.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 public class Role {
