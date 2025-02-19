@@ -14,7 +14,7 @@ public class Role {
     
     @Column
     private String description;
-    
+
     // Getter for id
     public long getId() {
         return id;
